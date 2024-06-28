@@ -13,15 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
+twitter: "https://twitter.com/cofresi_lab"
+github: "https://github.com/rcofresi"
 researchgate: "#"
 orcid: "#"
-quora: "#"
-instagram: "#"
 facebook: "#"
+google_scholar_url: "https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en"
 
 
 # Markdown
