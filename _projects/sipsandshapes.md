@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sips and Shapes Study #1
-image: 
+description: closed for enrollment 
 ---
 
 ## Status: Not recruiting/data collection completed. Analyses ongoing. Thank you to all wonderful participants and research team!
