@@ -6,16 +6,8 @@ profile:
   image: profile.png
 published: true
 ---
+Welcome! In the Cofresí lab, we use experimental behavioral conditioning procedures to model learning and memory about rewards like foods, drinks, and drugs in the human laboratory. We use psychophysiological methods, especially EEG and fMRI, to study and localize the neurocognitive correlates of reward learning and memory as well as reward anticipation and consumption, including the post-ingestive consequences of drugs like alcohol. 
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Our work is grounded in preclinical non-human animal model-based neuroscience frameworks and theories. Ultimately, we aim to translate and verify basic and intervention-related findings from preclinical addiction neuroscience laboratories into the human laboratory and bridge the gap to clinical applications and testing.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
-
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+A current major goal of the Cofresí lab is to delineate the role of conditioned cue reactivity and incentive salience in eating, drinking, and drug use with a focus on alcohol use.
