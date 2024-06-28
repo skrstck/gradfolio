@@ -15,8 +15,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 twitter: "cofresi_lab"
 github: "rcofresi"
-researchgate: "#"
-orcid: "#"
+researchgate: "Roberto-Cofresi"
+orcid: "0000-0003-1131-6142"
 facebook: "#"
 googlescholar: "citations?user=nRAErPEAAAAJ&hl=en"
 
