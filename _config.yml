@@ -4,7 +4,7 @@ title: Cofresi Lab
 description: Research Lab | University of Missouri
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "skrstck.github.io/gradfolio" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
