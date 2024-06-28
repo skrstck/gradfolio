@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Sips and Shapes Study #1
 image: 
 ---
